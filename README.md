@@ -2,6 +2,7 @@
 A sleek and responsive Weather App built using React and styled with Tailwind CSS. It fetches real-time weather data from a weather API based on the user’s city input.
 <hr>
 🚀 Features<br>
+
 🔎 Search by City Name
 
 🌡️ Displays Current Temperature, Min/Max Temp, Feels Like
@@ -15,6 +16,7 @@ A sleek and responsive Weather App built using React and styled with Tailwind CS
 🎨 Modern UI with Tailwind CSS
 <hr>
 🛠️ Tech Stack
+
 ⚛️ React.js – Component-based frontend framework
 
 🌬️ Tailwind CSS – Utility-first modern CSS framework
